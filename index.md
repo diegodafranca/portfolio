@@ -6,9 +6,9 @@ Seja bem-vindo(a) à minha página! Aqui são apresentados alguns projetos em qu
 
 
 
-### Repositórios
+### Calculadora Erlang B
 
-- Em ambientes de atendimento por fila, como Call Center, utilizam a fórmula ErlangB para dimensionamento de atendentes disponíveis com base no tráfego esperado, um algoritmo automatizado para realizar essa tarefa pode ser encontrado [aqui](https://github.com/diegodafranca/erlangB).
+Em ambientes de atendimento por fila, como Call Center, é utilizada a fórmula ErlangB para dimensionamento de atendentes disponíveis com base no tráfego esperado, um algoritmo automatizado para realizar essa tarefa pode ser encontrado [aqui](https://github.com/diegodafranca/erlangB).
 
 
 
