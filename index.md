@@ -6,14 +6,18 @@ Seja bem-vindo(a) à minha página! Aqui são apresentados alguns projetos em qu
 
 
 
-### Markdown
+### Repositórios
+
+- Em ambientes de atendimento por fila, como Call Center, utilizam a fórmula ErlangB para dimensionamento de atendentes disponíveis com base no tráfego esperado, um algoritmo automatizado para realizar essa tarefa pode ser encontrado [aqui] (https://github.com/diegodafranca/erlangB).
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 11231231
+# Header 1
 ## Header 2
 ### Header 3
 
@@ -38,4 +42,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-[Editor] https://github.com/diegodafranca/portfolio/edit/gh-pages/index.md
+[Editor] (https://github.com/diegodafranca/portfolio/edit/gh-pages/index.md)
